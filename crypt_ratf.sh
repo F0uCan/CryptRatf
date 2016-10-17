@@ -35,6 +35,7 @@ echo -e '                        \$$$$$$  \$$                                   
 echo -e "\n\E[00m"
 
 echo -e "\n\E[33m [*] \E[00mCriado por: Felipe Nog. (\E[32mhpb0x27\E[00m).         \n"
+echo -e "\n\E[33m [*] \E[00mEditado por: Weslley Alex (\E[F0UC@N\E[00m).         \n"
 echo -e "\E[33m [*] \E[00mPara: R.A.T.F (\E[31mRage Against The Flag\E[00m).  \n"
 echo -e "\n[33m [*] \E[00mGithub: https://github.com/hpb0x27\E[00m).   \n"
 
